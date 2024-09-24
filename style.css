@@ -1,0 +1,16 @@
+body { 
+	font-family: Arial, sans-serif; background-color: #FFC0CB;
+	margin: 20%;
+}
+h1, footer, h2 {
+	text-align: center;
+}
+h1 {
+	font-size: 2.5em;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
